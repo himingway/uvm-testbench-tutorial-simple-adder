@@ -1,4 +1,4 @@
-UVM_HOME = ../uvm-src/uvm-1.1d
+UVM_HOME = ./uvm-1.2
 UVM_VERBOSITY = UVM_MEDIUM
 TEST = simpleadder_test
 
