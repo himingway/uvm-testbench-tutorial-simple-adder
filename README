@@ -4,7 +4,8 @@
 
 Report
 ----------
-```
+
+```text
 UVM-1.2
 (C) 2007-2014 Mentor Graphics Corporation
 (C) 2007-2014 Cadence Design Systems, Inc.
@@ -62,6 +63,7 @@ $finish at simulation time                  900
 Time: 900 ns
 CPU Time:      0.220 seconds;       Data structure size:   0.3Mb
 Mon Oct 23 02:17:34 2017
+
 ```
 ----------
 How to run
